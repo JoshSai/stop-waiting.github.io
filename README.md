@@ -1,0 +1,3 @@
+#This Document is an exercize in making something like a Blog/Lifetyle website.
+##The photos are from Pexel.com and are liscenced under the Creative Commons 
+###More to come...
